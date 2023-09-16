@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning  XR, AR, MR Etc
+<p align="left">📚 I'm currently learning  XR, AR, MR Etc<br>
 🎯 Goals: Software engineer<br>🎲 Fun fact: Enjoy Reading</p>
 
 ###
