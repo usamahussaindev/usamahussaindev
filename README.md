@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am **Usama Hussain**, a student pursuing a Bachelor's degree in Software Engineering.
+![Uploading image8_0e61d0dad8.png…]()
 
 - 🔭 I'm currently studying software methodologies like Agile and Waterfall.
 - 🌱 I'm also Exploring about AR (Augmented Reality), VR (Virtual Reality), and MR (Mixed Reality).
