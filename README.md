@@ -12,7 +12,7 @@ I'm **Usama Hussain**, a Software Engineering student on a quest for knowledge! 
 - 📬 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/usama-hussain-45ba53200/).[Twitter](https://twitter.com/UsamaHussadev)
 - 😊 Pronouns: He/Him
 
-- 
+
 ### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
