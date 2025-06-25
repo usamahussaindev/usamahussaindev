@@ -1,12 +1,42 @@
-## Hey 👋
-
-I'm **Usama Hussain**, a Software Engineering student on a quest for knowledge! 📚
-
-- 🌟 Currently diving deep into the Artificial intelligence.
-- 🚀 I'm also exploring the world of AR (Augmented Reality), VR (Virtual Reality), and MR (Mixed Reality).
-- 🤝 Open to exciting collaboration opportunities!
-- 📬 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/usama-hussain-45ba53200/) 
-- 😊 Learn, Code, Build
+<h1 align="center">Usama Hussain</h1>
+<h3 align="center"> AI Enthusiast <span color="blue"> & </span>Full-Stack Web Engineer<span color="blue"> & </span> Software Graduate Student  </h3>
 
 
----
+
+### Hallo, Folks! 👋
+
+> Curiosity is a powerful trait that fuels learning and growth
+>
+> -Albert Einstein
+
+Greetings, I'm Usama, **AI Engineer** and **Full Stack Programmer** 👨🏻‍💻 from Pakistan. I like to develop using JavaScript and its frameworks. I am passionate about **Engineering**, **Innovation**, and **Augmented Reality**. Besides programming, I like History and  Mixed Martial Arts 🏃⛹️‍♂️🏋🏼‍♂️.
+</br>
+
+**Skills :** JavaScript, React, React Native  and PHP
+</br>
+**Tools :** Git, Github, VS Code, Linux, Notion, Figma
+
+
+## Current Status: <img width="410px" align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+
+
+* 🔭 I’m currently working on **AR Based linguistic Learning APP**.
+* 🌱 I’m currently learning everything.😎
+* 💬 Ask me about anything and I would like to answer.
+* 📫 Please contact me via usamahussain.dev@gmail.com
+
+</br>
+
+<h2 align="left">Connect With Me:</h2>
+
+<div align=center>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usamahussaindev/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usamahussaindev)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamahussain.dev@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/usamahussain.dev/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+  
+</div>
