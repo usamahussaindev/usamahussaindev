@@ -1,5 +1,5 @@
 <h1 align="center">Usama Hussain</h1>
-<h3 align="center"> AI Enthusiast <span color="blue"> & </span>Full-Stack Web Engineer<span color="blue"> & </span> Software Graduate Student  </h3>
+<h3 align="center"> AI Enthusiast <span color="blue"> & </span>Backend Engineer<span color="blue"> & </span> Software Graduate Student  </h3>
 
 
 
