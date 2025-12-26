@@ -14,7 +14,7 @@ Greetings, I'm Usama, **AI Engineer** and **Backend Programmer** 👨🏻‍💻
 
 **Skills :** Python, PHP, Symfony, Laravel and Java (Sometime)
 </br>
-**Tools :** Git, Github, VS Code, Linux, Notion, Figma
+**Tools :** Git, Github, VS Code, Linux, Notion, Docker
 
 
 ## Current Status: <img width="410px" align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
