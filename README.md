@@ -9,7 +9,7 @@
 >
 > -Albert Einstein
 
-Greetings, I'm Usama, **AI Engineer** and **Backend Programmer** 👨🏻‍💻 Germany. I like to develop using JavaScript and its frameworks. I am passionate about **Engineering**, **Innovation**, and **Augmented Reality**. Besides programming, I like History and  Mixed Martial Arts 🏃⛹️‍♂️🏋🏼‍♂️.
+Greetings, I'm Usama, **AI Engineer** and **Backend Programmer** 👨🏻‍💻 Germany. I like to develop using Python, PHP and its frameworks Laravel, Symfony. I am passionate about **Engineering**, **Innovation**, and **Augmented Reality**. Besides programming, I like History and  Mixed Martial Arts 🏃⛹️‍♂️🏋🏼‍♂️.
 </br>
 
 **Skills :** JavaScript, React, React Native  and PHP
