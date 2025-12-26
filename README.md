@@ -21,7 +21,7 @@ Greetings, I'm Usama, **AI Engineer** and **Backend Programmer** 👨🏻‍💻
 
 
 * 🔭 I’m currently working on **AR Based linguistic Learning APP**.
-* 🌱 I’m currently learning everything.😎
+* 🌱 I’m currently learning AI Impact on image processing Techniques.😎
 * 💬 Ask me about anything and I would like to answer.
 * 📫 Please contact me via usamahussain.dev@gmail.com
 
